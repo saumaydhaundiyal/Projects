@@ -20,7 +20,7 @@ A marketing data analyst is tasked to convert these survey results to meaningful
 
 The documentation below is a step-by-step explanation of how the project happened for easy understanding of the explorer. 
 
-[Documentation](https://github.com/saumaydhaundiyal/Projects/blob/main/CodeX%20Insights/CodeX%20Insights%20guide.docx)
+[Documentation]([https://github.com/saumaydhaundiyal/Projects/blob/main/CodeX%20Insights/CodeX%20Insights%20guide.docx](https://docs.google.com/document/d/1N2hM_ADf6tTjIMekCJLWeScEwm2Mxan6WTZLFzYG3Ow/edit?usp=sharing)https://docs.google.com/document/d/1N2hM_ADf6tTjIMekCJLWeScEwm2Mxan6WTZLFzYG3Ow/edit?usp=sharing)
 
 
 ## Skills
